@@ -1,4 +1,4 @@
-# Maple-Scripts-for-NEGF-Calculations
+# Maple-Workbooks-for-NEGF-Calculations
 These are Maple workbooks that use the Hoy group's NEGF-RDM code and the QuantumChemistry Toolbox from Maple to perform NEGF calculations.
 
 We currently only have a public script for running the NEGF-RDM method. Expected future scripts include:
