@@ -10,5 +10,5 @@ To run these scripts, you will need:
 2. QuantumChemistry Toolbox for Maple (2020 or later)
 3. An NEGF-RDM executable (Compiled from source code)
 
-Note: The NEGF-RDM respository is not currently available. It is expected to be publicly available by late December 2020. Check the HoyLab-Rowan Github page for updates.
+Note: The NEGF-RDM respository is not currently available. It is expected to be publicly available by *Feburary 2021*. Check the HoyLab-Rowan Github page for updates.
 
